@@ -28,6 +28,7 @@
 
 .line {
   display: grid;
+  justify-content: start;
   background-color: white;
   //border: 1px solid gray;
   padding: 0px;
